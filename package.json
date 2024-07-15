@@ -1,0 +1,13 @@
+{
+  "name": "playwright_automation",
+  "version": "1.0.0",
+  "description": "This is Demo project",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Anita Chauhan",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.10"
+  }
+}
